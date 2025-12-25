@@ -2,7 +2,7 @@
 
 🎓 AI Student @ VU
 📍 Amsterdam, Netherlands
-🔗 [LikedIn](www.linkedin.com/in/josé-maria-zuzarte-reis-claver-570101291)
+🔗 [LikedIn](https://www.linkedin.com/in/jos%C3%A9-maria-zuzarte-reis-claver-570101291/)
 
 <!--
 **josemzreis/josemzreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
